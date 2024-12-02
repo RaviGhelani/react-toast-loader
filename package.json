@@ -1,0 +1,25 @@
+{
+  "name": "react-toast-loader",
+  "version": "1.0.0",
+  "description": "This is the component build in react. Used for both loader with backdrop and toast message.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src --out-dir dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.25.9",
+    "@babel/core": "^7.26.0",
+    "@babel/preset-env": "^7.26.0",
+    "@babel/preset-react": "^7.25.9",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
